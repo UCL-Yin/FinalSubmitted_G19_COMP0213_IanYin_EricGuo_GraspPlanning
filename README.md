@@ -20,4 +20,11 @@ files for grippers and cubes' model
 
 Please donwload the COMP0213_IanYin_EricGuo_GraspPlanning_submit.zip and uncompress
 
+The project also utilises several additional packages to save code space and optimise runtime performance,
+including PyBullet, NumPy, Pandas, joblib, and scikit-learn. To ensure the code runs correctly, please
+ensure these packages are properly installed on your device.
+
+You can use the command: pip install pybullet numpy pandas scikit-learn joblib
+
 All tasks are executed through main.py using command-line arguments.
+
